@@ -45,8 +45,8 @@
 
 #### TelegramBot 推送
 
-- `TELEGRAM_BOT_TOKEN` _Telegram Bot Token_
-- `TELEGRAM_CHAT_ID` _Telegram 接收推送消息的会话 ID_
+- `TELEGRAM_BOT_TOKEN` _Telegram Bot Token_（botfather获取）
+- `TELEGRAM_CHAT_ID` _Telegram账号ID_
 
 #### 微信群机器人推送
 
